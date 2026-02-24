@@ -1,0 +1,14 @@
+Changelog for the Astro website template for Dockside Web Solutions, LLC
+
+2/23/26 - Created Layout
+Added:
+TailwindCSS
+Prettier
+esLint
+astrojs/sitemap
+
+Button.astro
+Footer.astro
+Header.astro
+SEO.astro
+404.astro
