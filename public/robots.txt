@@ -1,4 +1,5 @@
-// src/pages/robots.txt.ts
+//What else do I do here?
+
 import type { APIRoute } from "astro";
 
 const robotsTxt = `
