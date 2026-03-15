@@ -1,5 +1,8 @@
 Changelog for the Astro website template for Dockside Web Solutions, LLC
 
+3/14/26
+Updated to Astro 6
+
 3/1/26
 Added:
 Tailwind CSS Intellisense extension
