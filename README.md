@@ -20,4 +20,4 @@ astro.config.mjs
 site
 
 wrangler.jsonc
-name
+name - make it the same as the repo name
