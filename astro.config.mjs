@@ -3,7 +3,8 @@ import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://www.yourdomain.com",
+  //UPDATE THIS FOR EVERY NEW CLIENT
+  site: "https://YOURDOMAIN.com",
   output: "static",
   vite: {
     plugins: [tailwindcss()],

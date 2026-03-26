@@ -1,5 +1,8 @@
 Changelog for the Astro website template for Dockside Web Solutions, LLC
 
+3/26/26
+Made sweetcarolineseaport.com from this template and added things that worked well and fixed things that didnt
+
 3/21/26
 Added ContactForm component
 
@@ -13,8 +16,6 @@ Tailwind CSS Intellisense extension
 2/23/26 - Created Layout
 Added:
 TailwindCSS
-Prettier
-esLint
 astrojs/sitemap
 
 Button.astro
