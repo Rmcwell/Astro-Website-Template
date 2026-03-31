@@ -68,7 +68,7 @@ const turnstileSiteKey = "0x4AAAAAACtwydU4s9rO0pbJ";
       </div>
     </div>
 
-    <div>
+    <div class="space-y-1"> 
       <label for="message" class="mb-1 block text-sm font-medium text-gray-700">
         Message <span class="text-red-500">*</span>
       </label>
@@ -80,11 +80,11 @@ const turnstileSiteKey = "0x4AAAAAACtwydU4s9rO0pbJ";
         required
         class="contact-input focus:border-brand-secondary focus:ring-brand-secondary w-full resize-none rounded-lg border border-gray-300 px-4 py-2 transition-all outline-none"
       ></textarea>
+      
+      <p class="text-[10px] text-gray-400 italic leading-none">
+        Fields marked with <span class="text-red-500">*</span> are required.
+      </p>
     </div>
-
-    <p class="text-xs text-gray-400 italic">
-      Fields marked with <span class="text-red-500">*</span> are required.
-    </p>
 
     <!-- Cloudflare Turnstile widget -->
     <div
